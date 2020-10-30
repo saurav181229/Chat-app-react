@@ -1,2 +1,2 @@
 # Chat-app-react
-## Have a look at the demo here saurav181229/React-chat-app
+## Have a look at the demo here https://gracious-jepsen-3d75e9.netlify.app/
