@@ -4,4 +4,5 @@
 ### This project is created with React,socket.io and nodejs
 
 ####h=Here are the snap shots
-<img ="1.png">
+
+<img ="/1.png">
